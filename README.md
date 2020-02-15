@@ -1,4 +1,4 @@
-# Physic ThesisKirkwood-Gaps
+# Physic Thesis: Kirkwood Gaps 2019
 
 In this repository you can find some books, the code and the presentation that I did in order to study the Kirkwood Gaps.
 

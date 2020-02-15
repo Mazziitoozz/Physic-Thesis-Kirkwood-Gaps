@@ -1,6 +1,6 @@
 # Physic Thesis: Kirkwood Gaps 
 
-_El objetivo principal de este trabajo es estudiar el comportamiento de los asteroides cerca de las Zanjas de Kirkwood y tratar de diseñar un método para determinar la anchura de dichas zanjas. Para ello hemos desarrollado un código en lenguaje Python con el que realizaremos experimentos de simulación del movimiento de los asteroides. Además, hemos comparado distintos métodos de integración numérica hemos concluido que el metodo de Velocidad Verlet es el mas apropiado para el proyecto. Asimismo, hemos estudiado el efecto que tiene Marte y Saturno en la creación de las zanjas._
+_El objetivo principal de este trabajo es estudiar el comportamiento de los asteroides cerca de las Zanjas de Kirkwood y tratar de diseñar un método para determinar la anchura de dichas zanjas. Para ello hemos desarrollado un código en lenguaje Python con el que realizaremos experimentos de simulación del movimiento de los asteroides. Además, hemos comparado distintos métodos de integración numérica y hemos concluido que el metodo de Velocidad Verlet es el mas apropiado para el proyecto. Asimismo,estudiaremos el efecto que tiene Marte y Saturno en la creación de las zanjas._
 
 
 En este repositorio encontrarás  algunos libros que me ayudaron al hacer el trabajo, el codigo estructurado por carpetas y una breve presentacion del proyecto.
